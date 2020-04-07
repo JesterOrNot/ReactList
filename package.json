@@ -1,0 +1,28 @@
+{
+  "name": "reactlist",
+  "version": "1.0.0",
+  "description": "A React based TODO list",
+  "main": "src/App.tsx",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterOrNot/ReactList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterOrNot/ReactList/issues"
+  },
+  "homepage": "https://github.com/JesterOrNot/ReactList#readme",
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
